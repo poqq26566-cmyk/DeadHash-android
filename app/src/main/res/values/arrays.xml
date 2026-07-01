@@ -9,6 +9,7 @@
         <item>Português (Brasil)</item>
         <item>Русский</item>
         <item>Español</item>
+        <item>中文</item>             <!-- 新增 -->
     </string-array>
 
     <string-array name="language_values" translatable="false">
@@ -21,6 +22,7 @@
         <item>pt</item>
         <item>ru</item>
         <item>es</item>
+        <item>zh</item>              <!-- 新增，对应中文 -->
     </string-array>
 
     <string-array name="deadhash_theme_entries" translatable="false">
